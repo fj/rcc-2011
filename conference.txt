@@ -5,3 +5,4 @@ Speaker invitations:
   * Bob Smith
   * Justin Etheredge
   * Mike Jones
+  * Kevin Spacey
