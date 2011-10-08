@@ -2,5 +2,6 @@ Conference budget:
 
 - Food: $1,000
 - Space: $800
+- Donuts: $200
 
 Justin needs to approve the contract.
